@@ -15,9 +15,9 @@ protoclo Buffer Basics(Python)：https://developers.google.com/protocol-buffers/
 protobuf3语法指南：https://colobu.com/2017/03/16/Protobuf3-language-guide/
 
 命令：
-      1. protoc --decode_raw < data.bin  >text.txt
+1. protoc --decode_raw < data.bin  >text.txt
 
-      2. protoc --python_out=. argis.proto
+2. protoc --python_out=. argis.proto
       
 5、生成plythoy文件
 
