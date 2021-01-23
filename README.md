@@ -1,3 +1,13 @@
+动态爬取地图网站中的表格数据+protocol解析乱码数据
+
+地图网站为：
+
+https://www.arcgis.com/home/webmap/viewer.html?url=https://services5.arcgis.com/7nsPwEMP38bSkCjy/ArcGIS/rest/services/LA_Pre_outbreak_mobility_data/FeatureServer&source=sd
+
+以及
+
+https://www.arcgis.com/home/webmap/viewer.html?url=https://services5.arcgis.com/7nsPwEMP38bSkCjy/ArcGIS/rest/services/LA_Post_outbreak_mobility_data/FeatureServer&source=sd
+
 1、爬取数据流
 
 2、数据流多数为二进制数据，将数据保存为data.bin文件
